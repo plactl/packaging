@@ -1,0 +1,11 @@
+[package]
+name = "plactl"
+version = "0.0.1"
+edition = "2021"
+description = "plactl — platform control. Official name reservation for the plactl CLI; real releases will ship here."
+license = "MIT"
+homepage = "https://github.com/plactl"
+documentation = "https://github.com/plactl"
+readme = "README.md"
+keywords = ["plactl", "idp", "platform-engineering"]
+categories = ["command-line-utilities"]

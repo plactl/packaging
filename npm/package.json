@@ -1,0 +1,24 @@
+{
+  "name": "plactl",
+  "version": "0.0.1",
+  "description": "plactl — platform control. Official name reservation for the plactl CLI; real releases will ship here.",
+  "keywords": [
+    "plactl",
+    "internal-developer-platform",
+    "idp",
+    "platform-engineering"
+  ],
+  "homepage": "https://github.com/plactl",
+  "bugs": "https://github.com/plactl",
+  "license": "MIT",
+  "author": "Luke Diliberto",
+  "bin": {
+    "plactl": "bin/plactl.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
